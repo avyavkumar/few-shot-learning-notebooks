@@ -4,6 +4,8 @@ Please install MOSEK under a valid license using the instructions found [here](h
 
 We use the MT-DNN model provided by [this snapshot](https://github.com/namisan/mt-dnn/tree/v0.1).
 
+We use the datasets provided by [Bansal et al. (2019)](https://arxiv.org/abs/1911.03863) from [this repository](https://github.com/iesl/leopard).
+
 If you are using our code or referencing the paper [here](https://arxiv.org/abs/2210.17437) please feel free to cite it as 
 
 ```
